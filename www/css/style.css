@@ -1,0 +1,9 @@
+html,
+body {
+  background-image: url("./assets/Backgrounds/background.jpg");
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+

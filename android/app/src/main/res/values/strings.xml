@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MetalWar</string>
+    <string name="title_activity_main">MetalWar</string>
+    <string name="package_name">com.animeverse.netlify.metalwar</string>
+    <string name="custom_url_scheme">com.animeverse.netlify.metalwar</string>
+</resources>

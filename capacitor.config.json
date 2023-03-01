@@ -1,0 +1,11 @@
+{
+  "appId": "com.animeverse.netlify.metalwar",
+  "appName": "MetalWar",
+  "bundledWebRuntime": true,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
